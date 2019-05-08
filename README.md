@@ -1,2 +1,1 @@
 # java-exercises
-Java exercises
